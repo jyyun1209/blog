@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       projectId: "wzmrblcv4s",
     },
     locale: "ko-KR",  // "en-US" for English (United States), "ko-KR" for Korean (South Korea).
-    baseUrl: "jyyun1209.github.io",
+    baseUrl: "jyyun1209.github.io/blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {

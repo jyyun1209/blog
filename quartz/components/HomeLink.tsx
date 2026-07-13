@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 // 블로그(/blog)에서 메인 홈페이지(루트)로 돌아가는 링크
 const HomeLink: QuartzComponent = () => {
   return (
-    <a class="home-link" href="https://jyyun1209.github.io/">
+    <a class="home-link" href="https://jyyun1209.github.io/" data-router-ignore>
       ← Main Page
     </a>
   )
